@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        int[] data = {1,0};
+        int[] data = {1,0,55};
 
         for (int barrier = data.length - 1; barrier >= 1; barrier--) {
 
